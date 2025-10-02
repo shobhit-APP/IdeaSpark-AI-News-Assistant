@@ -40,8 +40,8 @@
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/ideaspark-mobile.git
-   cd ideaspark-mobile
+  git clone https://github.com/shobhit-APP/IdeaSpark-AI-News-Assistant.git
+  cd IdeaSpark-AI-News-Assistant.
 Install dependencies
 
 bash
