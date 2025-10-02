@@ -8,14 +8,6 @@
 
 ---
 
-## 📲 Download the App  
-
-👉 [**Download IdeaSpark Mobile (APK)**](https://drive.google.com/file/d/1xTAl_E_sIv2VZp3fYxtsD07KPLw85LNN/view?usp=sharing)  
-
-Simply click the link above to download and install the app on your device. 🚀  
-
----
-
 ## ✨ Features Overview  
 
 ### 🎯 Main Features  
