@@ -1,4 +1,9 @@
 # 🚀 IdeaSpark Mobile - Advanced AI-Powered App
+📲 Download the App
+
+👉 Download IdeaSpark Mobile (APK)
+
+Simply click the link above to download and install the app on your device. 🚀
 
 ## ✨ Features Overview
 
